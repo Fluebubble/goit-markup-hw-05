@@ -33,7 +33,6 @@ body {
 .header-inner {
   display: flex;
   align-items: center;
-  background-color: var(--white-color);
 }
 .header-line {
   border-bottom: 1px solid #ececec;
