@@ -543,7 +543,7 @@ body {
   background-color: #fff;
   width: 1.8750rem;
   height: 1.8750rem;
-  background-image: url(/images/svg/close.svg);
+  background-image: url(../images/svg/close.svg);
   background-size: contain;
 }
 .modal.is-hidden {
